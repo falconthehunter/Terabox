@@ -14,7 +14,6 @@ It features a user-friendly [Rich](https://github.com/Textualize/rich) interface
 - Handles errors and invalid links gracefully
 
 ---
-## Preview 
 ## Preview
 
 ![TeraBox CLI Preview](preview.png)
