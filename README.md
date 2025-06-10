@@ -34,7 +34,8 @@ It features a user-friendly [Rich](https://github.com/Textualize/rich) interface
 2. **Install Required Dependencies**
 
     ```bash
-    pip install -r requirements.txt
+    pip install TeraboxDL
+    pip install rich
     ```
 
     _Required packages:_
